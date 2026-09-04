@@ -1,0 +1,45 @@
+commit 72fd18a63cbfa79863a820b869383b7d56bb5c7f
+Merge: c2b4282 8e61a72
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 11:22:45 2026 -0700
+
+    Merge branch 'index-fix'
+
+commit 8e61a72243f68fe2f299b307f5b1fa94e58e043f
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 11:18:55 2026 -0700
+
+    Add favorite game to index.html
+
+commit c2b42829a5788fa0eb768446158c112a27bcbb94
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 11:16:38 2026 -0700
+
+    Add favorite food to index.html
+
+commit bbce5a227bc2ee5ac5dc8791e89afcf158607603
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 11:12:51 2026 -0700
+
+    Create README.md
+
+commit 6493f65a5922377f4d9e71906d6a1ad995a81929
+Merge: 1d2bfc0 ffaaa6f
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 11:06:10 2026 -0700
+
+    Merge pull request #1 from Tatadashi/info-fill
+    
+    Filled in blanks in index.html
+
+commit ffaaa6f6787dfbc4b35712d8d3c1d21ba20e40c2
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 4 10:50:35 2026 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
